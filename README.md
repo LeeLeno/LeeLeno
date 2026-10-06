@@ -1,21 +1,25 @@
 # Hi there, I'm LeeLeno 👋
 
-🎓 **Third-year Master's student (研三)** at **[Your University]**, [City], China
-🔬 Researching **[Your Field, e.g. Robot Learning / Reinforcement Learning / Sim2Real Transfer]**
+🎓 **Third-year Master's student (研三应届)** at **Northeastern University (NEU, 东北大学)**, Shenyang, China
+🤖 Working on **Humanoid Robots & Robot Learning**
 
 ## 🧑‍🎓 About Me
 
-- 🏫 Graduate student at **[Your University]**, [Your School/Lab, e.g. School of Computer Science], expected to graduate in **[2027]**
-- 🤖 My research focuses on **[your specific topics, e.g. legged robot control, sim-to-real transfer, whole-body control]**
-- 🤓 Currently working with **Python**, **PyTorch**, **MuJoCo** / **Isaac Gym**
+- 🏫 Final-year Master's student at **Northeastern University (NEU)**, Shenyang, China — expected to graduate in **2027**
+- 🔬 Research interests: **Humanoid Motion Tracking**, **Behavior Foundation Models**, **Legged Robot Control**, **Sim-to-Real Transfer**, **Whole-Body Control**
+- 🧰 Simulators I work with: **Isaac Gym / Isaac Lab**, **MuJoCo**, **Motrix**
+- 🤓 Programming in **Python** and **C++**
+- 🏃 Marathon runner and 🏓 table tennis player in my free time
 - 🌱 Open to academic exchange and collaboration — feel free to reach out!
-- 🤩 In my free time, I enjoy **[your hobbies, e.g. badminton, hiking]**
+
+## 💼 Projects I Work On
+
+- **[UniLab](https://github.com/Motphys/UniLab)** — A heterogeneous architecture for robot RL beyond GPU-dominant paradigms
+- **[gs_playground (gsp)](https://github.com/discoverse-dev/gs_playground)** — A robot learning playground built on the Genesis simulator
 
 ## 📫 Contact
 
 - 📧 Email: **[1846301824@qq.com](mailto:1846301824@qq.com)**
-- 🎓 Google Scholar: **[your scholar link, optional]**
-- 🌐 Homepage: **[your homepage, optional]**
 
 ## 🛠️ Skills
 
@@ -25,11 +29,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+## 📈 Contributions
 
-![LeeLeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeLeno&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeLeno&layout=compact&hide_border=true)
+![LeeLeno's GitHub contribution heatmap](https://ghchart.rshah.org/LeeLeno)
 
 ---
 
