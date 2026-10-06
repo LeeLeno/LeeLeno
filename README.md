@@ -1,11 +1,11 @@
 # Hi there, I'm LeeLeno 👋
 
-🎓 **Third-year Master's student (研三应届)** at **Northeastern University (NEU, 东北大学)**, Shenyang, China
-🤖 Working on **Humanoid Robots & Robot Learning**
+🎓 **Third-year graduate student (Master's program)** at **Northeastern University (NEU)**, Shenyang, China
+🤖 Working on **Humanoid Robots & Robot Learning (RL)**
 
 ## 🧑‍🎓 About Me
 
-- 🏫 Final-year Master's student at **Northeastern University (NEU)**, Shenyang, China — expected to graduate in **2027**
+- 🏫 Third-year graduate student at **Northeastern University (NEU)**, Shenyang, China — Master's degree expected in **2027**
 - 🔬 Research interests: **Humanoid Motion Tracking**, **Behavior Foundation Models**, **Legged Robot Control**, **Sim-to-Real Transfer**, **Whole-Body Control**
 - 🧰 Simulators I work with: **Isaac Gym / Isaac Lab**, **MuJoCo**, **Motrix**
 - 🤓 Programming in **Python** and **C++**
@@ -31,7 +31,7 @@
 
 ## 📈 Contributions
 
-![LeeLeno's GitHub contribution heatmap](https://ghchart.rshah.org/LeeLeno)
+![LeeLeno's GitHub contribution heatmap](https://ghchart.rshah.org/1f6feb/LeeLeno)
 
 ---
 
