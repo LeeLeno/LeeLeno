@@ -1,4 +1,4 @@
-# Hi there, I'm LeeLeno 👋
+# Hi there, I'm Xiaofan Li 👋
 
 🎓 **Third-year graduate student (Master's program)** at **Northeastern University (NEU)**, Shenyang, China
 🤖 Working on **Humanoid Robots & Robot Learning (RL)**
